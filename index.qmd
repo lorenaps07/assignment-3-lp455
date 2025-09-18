@@ -1,7 +1,17 @@
 ---
-title: "assignment-3-lp455"
+title: "Collab Website"
+image: images/1646.JPG
+
+about:
+  template: marquee
 ---
 
-This is a Quarto website.
+### Welcome to our Website! 💫
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Here is Lorena's Github [page](https://github.com/lorenaps07), and this is Gabby's [page](https://github.com/gevergreen).
+
+<br>
+
+### A little about us:
+
+![Brazil is Lorena's home country and this is a photo of one of her favorite hiking spots in her town](images/08.jpg)

@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "assignment-3-lp455",
+    "title": "Collab Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome to our Website! 💫\nHere is Lorena’s Github page, and this is Gabby’s page.\n\n\n\nA little about us:\n\n\n\nBrazil is Lorena’s home country and this is a photo of one of her favorite hiking spots in her town"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Lorena",
     "section": "",
-    "text": "About this site"
+    "text": "Hello, I am Lorena! 😊 I’m an undergraduate student at Cornell CALS majoring in Environment & Sustainability 🌿 I am passionate about birds, conservation and neotropical research 🌎"
+  },
+  {
+    "objectID": "about.html#things-i-like-to-do-in-my-free-time",
+    "href": "about.html#things-i-like-to-do-in-my-free-time",
+    "title": "Lorena",
+    "section": "Things I like to do in my free time:",
+    "text": "Things I like to do in my free time:\n\nrunning\nhiking\nbirding\ncooking\nbaking sourdough"
   }
 ]

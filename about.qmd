@@ -1,5 +1,19 @@
 ---
-title: "About"
+title: "Lorena"
 ---
 
-About this site
+![](images/profile.jpeg){width="240"}
+
+Hello, I am Lorena! 😊 I'm an undergraduate student at Cornell CALS majoring in Environment & Sustainability 🌿 I am passionate about birds, conservation and neotropical research 🌎
+
+## Things I like to do in my free time:
+
+-   running
+
+-   hiking
+
+-   birding
+
+-   cooking
+
+-   baking sourdough
