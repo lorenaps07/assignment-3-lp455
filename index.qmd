@@ -15,3 +15,5 @@ Here is Lorena's Github [page](https://github.com/lorenaps07), and this is Gabby
 ### A little about us:
 
 ![Brazil is Lorena's home country and this is a photo of one of her favorite hiking spots in her town](images/08.jpg)
+
+![Gabby is from New Jersey. Here is a photo of Cattus Island, one of her favorite places to go walking in her hometown.](images/cattusisland.webp)
